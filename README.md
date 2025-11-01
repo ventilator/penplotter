@@ -91,3 +91,4 @@ If you already have PrusaSlicer installed, you’re ready for a quick start
 * [https://github.com/SonarSonic/DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3)
 * [https://plotterfiles.com](https://plotterfiles.com)
 * [https://github.com/beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters)
+* Generative art and sharing: [https://turtletoy.net/turtle/browse/love/](https://turtletoy.net/turtle/browse/love/)
