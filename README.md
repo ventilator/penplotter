@@ -83,8 +83,9 @@ If you already have PrusaSlicer installed, you’re ready for a quick start
     * Printing at 200% speed is also fine
 
 ## Links and further reading
-[https://github.com/brianlow/plotter](https://github.com/brianlow/plotter)
-[https://www.printables.com/model/63385-pen-plotter-attachment-for-prusa-mk3s/comments](https://www.printables.com/model/63385-pen-plotter-attachment-for-prusa-mk3s/comments) - especially [https://www.printables.com/make/557511](https://www.printables.com/make/557511)
-[https://github.com/SonarSonic/DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3)
-[https://plotterfiles.com](https://plotterfiles.com)
-[https://github.com/beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters)
+* [https://github.com/brianlow/plotter](https://github.com/brianlow/plotter)
+* [https://www.printables.com/model/63385-pen-plotter-attachment-for-prusa-mk3s/comments](https://www.printables.com/model/63385-pen-plotter-attachment-for-prusa-mk3s/comments) 
+    * especially [https://www.printables.com/make/557511](https://www.printables.com/make/557511)
+* [https://github.com/SonarSonic/DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3)
+* [https://plotterfiles.com](https://plotterfiles.com)
+* [https://github.com/beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters)
