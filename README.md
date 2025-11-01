@@ -9,7 +9,8 @@ Experiments using an old 3D printer as a pen plotter, heavily drawn from [https:
 
 If you already have PrusaSlicer installed, you’re ready for a quick start
 
-* Use Prusa Slicer for gcode generation
+* Use Prusa Slicer for gcode generation from an existing SVG
+    * alternativly: Generate text and shapes directly with the slicer
 * Use SD Card or Pronterface (via USB) to transfer gcode
   * Pronterface offers a 2-click start solution. (Pronterface is a tool which comes with PrusaSlicer if you choose to install it.)
     
@@ -43,6 +44,7 @@ If you already have PrusaSlicer installed, you’re ready for a quick start
 ![](docu/img/camera/pen.webp)
 
 ## Workflow
+* Load SVG into slicer, set height to one layer (0.2mm)
 * Slice gcode
 * Save to disk
 * Remove cap from pen (if not: homing will not work due to crash)
